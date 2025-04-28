@@ -1,0 +1,6 @@
+# requirements.txt
+
+Flask==2.2.5
+Flask-SQLAlchemy==3.0.3
+PyMySQL==1.0.3
+Faker==18.9.0
